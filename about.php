@@ -15,7 +15,7 @@
           <div class="about-app">
             <h6>About App</h6>
             <p>A COVID-19 APP TRACKER</p>
-            <p>A simple mobile app that help elighthen users on CoronaVirus and give them real time metrics.</p>
+            <p>A simple mobile app that helps enlighten users on CoronaVirus and give them real-time metrics.</p>
             <h6>About Creator</h6>
             <p class="text-align-left"><b>Name :</b> Josiah Endurance</p>
             <p class="text-align-left"><b>Skills :</b> Full Stack Web Developer, UI/UX Designer, Digital Markerter, Pentester & Writer</p>

@@ -76,6 +76,22 @@ function getCovidStatistics() {
 	setTimeout(getCovidStatistics, 18000) // update every 5 hour
 }
 
+// Scroll to Top
+
+$(document).ready(function(){
+    $(this).scrollTop(0);
+});
+
+// Lazy Load
+$('.lazy').Lazy({
+    // your configuration goes here
+    scrollDirection: 'vertical',
+    effect: 'fadeIn',
+    visibleOnly: true,
+    onError: function(element) {
+        console.log('error loading ' + element.data('src'));
+    }
+});
 
 
 //  Form validation

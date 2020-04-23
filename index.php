@@ -49,7 +49,7 @@
 
 <!-- MOBILE -->
 
-  <section id="mobile">
+  <section class="lazy" id="mobile">
     <nav class="navbar navbar-light bg-light">
      <span class="navbar-brand mb-0 h1 ">COVID-19</span>
      <span><a href="https://ko-fi.com/hendurhance"><i class="fas fa-donate icon-nav"></i></a></span>
@@ -268,6 +268,7 @@
 
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.lazy.min.js"></script>
 <script src="assets/js/bootstrap-validate.js"></script>
 <script src="assets/js/app.js"></script>
 
