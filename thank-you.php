@@ -14,7 +14,7 @@
         <div class="container">
           <div class="thank-you-center">
             <i class="fas fa-envelope-open"></i>
-            <p>Message sent successfully</p>
+            <p>Message sent successfully!</p>
             <a href="index.php" class="backlink"><i class="fas fa-angle-double-left"></i> Go back</a>
           </div>
         </div>
